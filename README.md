@@ -9,8 +9,8 @@ SchoolsMate desktop application is now available for free download. Our Applicat
 <a href="https://sourceforge.net/projects/student-management-system-free/files/latest/download"><img alt="Download Student Management System Free Download" src="https://img.shields.io/sourceforge/dm/student-management-system-free.svg" ></a> <a href="https://sourceforge.net/projects/student-management-system-free/files/latest/download"><img alt="Download Student Management System Free Download" src="https://img.shields.io/sourceforge/dw/student-management-system-free.svg" ></a> <a href="https://sourceforge.net/projects/student-management-system-free/files/latest/download"><img alt="Download Student Management System Free Download" src="https://img.shields.io/sourceforge/dd/student-management-system-free.svg" ></a> <a href="https://sourceforge.net/projects/student-management-system-free/files/latest/download"><img alt="Download Student Management System Free Download" src="https://img.shields.io/sourceforge/dt/student-management-system-free.svg" ></a> 
 
 # Default credentials<br/>
-Note: Login with Default credentials and create your own id
-User Id: john<br/>
+Note: Login with Default credentials and create your own id<br/>
+User Id: john
 Password: demo@123<br/>
 
 # Note:<br/>
