@@ -10,7 +10,7 @@ SchoolsMate desktop application is now available for free download. Our Applicat
 
 # Default credentials<br/>
 Note: Login with Default credentials and create your own id<br/>
-User Id: john
+User Id: john<br/>
 Password: demo@123<br/>
 
 # Note:<br/>
