@@ -19,4 +19,11 @@ https://www.litgreytechnologies.com
 
 
 <br/>
-[![Download Student Management System Free Download](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/student-management-system-free/files/latest/download)
+<a href="https://sourceforge.net/projects/student-management-system-free/files/latest/download"><img alt="Download Student Management System Free Download" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
+
+ 
+<a href="https://sourceforge.net/projects/student-management-system-free/files/latest/download"><img alt="Download Student Management System Free Download" src="https://img.shields.io/sourceforge/dm/student-management-system-free.svg" ></a> <a href="https://sourceforge.net/projects/student-management-system-free/files/latest/download"><img alt="Download Student Management System Free Download" src="https://img.shields.io/sourceforge/dw/student-management-system-free.svg" ></a> <a href="https://sourceforge.net/projects/student-management-system-free/files/latest/download"><img alt="Download Student Management System Free Download" src="https://img.shields.io/sourceforge/dd/student-management-system-free.svg" ></a> <a href="https://sourceforge.net/projects/student-management-system-free/files/latest/download"><img alt="Download Student Management System Free Download" src="https://img.shields.io/sourceforge/dt/student-management-system-free.svg" ></a> 
+
+
+
+
