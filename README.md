@@ -17,11 +17,10 @@ SchoolsMate desktop application is now available for free download. Our Applicat
 
 # Default credentials:<br/>
 Note: Login with Default credentials and create your own id<br/>
-<b>User Id:<b/> john<br/>
-<b>Password:<b/> demo@123<br/>
-<b>
-The UserId and Password are case-sensitive
-<b/>
+**User Id:** john<br/>
+**Password:** demo@123<br/>
+**The UserId and Password are case-sensitive**
+
 # Note:<br/>
 We are continuously improving our desktop application. The SchoolsMate Desktop Application is bought to you by Direct Matrix powered by LitGrey Technologies
 
