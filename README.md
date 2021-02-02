@@ -29,7 +29,8 @@ We are continuously improving our desktop application. The SchoolsMate Desktop A
 oolubola@gmail.com  OR 
  exc@litgreytechnologies.com<br/>
 WhatsApp<br/>
-+92 334 8238084 Or +92 333 8422387<br/>
++27 60 9242956 OR +92 334 8238084 <br/>
+https://directmatrixgroup.com.ng
 https://www.litgreytechnologies.com
 
 
